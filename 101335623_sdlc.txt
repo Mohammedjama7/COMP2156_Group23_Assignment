@@ -1,2 +1,3 @@
 Automation and version control reduce errors and save time.
 DevOps improves collaboration in the software development life cycle (SDLC).
+Continuous integration helps catch issues early and improves software quality.
