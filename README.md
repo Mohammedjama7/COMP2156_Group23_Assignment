@@ -7,3 +7,10 @@ Group:23
 - Mohammed Jama — 101335623 — Mohammedjama7
 - Fisal Yusuf- 101248880- FisalYusuf
 - Theodore Tran- 101587514 - theodoretran-git
+                                               
+                                               
+
+## Repository Rules
+- All work is committed from local machines (no direct GitHub edits).
+- Each member works on their own branch (StudentID-Name).
+- Changes are merged into main using Pull Requests.
