@@ -2,3 +2,4 @@ DevOps improves the software development lifecycle by automating repetitive task
 
 Learning DevOps helps developers release software faster and with fewer bugs.
 
+DevOps is important in SDLC because it bridges the gap between development and deployment.
