@@ -1,0 +1,5 @@
+DevOps combines development and operations to deliver software faster.
+
+CI/CD automates testing and deployment to reduce errors.
+
+DevOps improves teamwork between developers and system administrators 
