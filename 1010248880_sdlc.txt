@@ -1,2 +1,4 @@
 DevOps improves the software development lifecycle by automating repetitive tasks.
 
+Learning DevOps helps developers release software faster and with fewer bugs.
+
