@@ -1,0 +1,2 @@
+DevOps improves the software development lifecycle by automating repetitive tasks.
+
