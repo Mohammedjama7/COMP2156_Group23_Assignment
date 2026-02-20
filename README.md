@@ -15,3 +15,4 @@ Group:23
 - Each member works on their own branch (StudentID-Name).
 - Changes are merged into main using Pull Requests.
 Last updated: CI trigger
+CI trigger
