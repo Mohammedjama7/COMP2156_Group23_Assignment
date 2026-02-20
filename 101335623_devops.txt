@@ -1,2 +1,3 @@
 COMP2156 DevOps teaches modern development and deployment tools.
 Students learn Git, GitHub, and automation practices.
+These skills help teams collaborate and deliver software faster.
