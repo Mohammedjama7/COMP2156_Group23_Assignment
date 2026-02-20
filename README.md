@@ -14,3 +14,4 @@ Group:23
 - All work is committed from local machines (no direct GitHub edits).
 - Each member works on their own branch (StudentID-Name).
 - Changes are merged into main using Pull Requests.
+Last updated: CI trigger
