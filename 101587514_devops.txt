@@ -1,0 +1,3 @@
+COMP2156 covers DevOps fundamentals.
+Students learn Git And Github workflows.
+Automation tools are also introduced.

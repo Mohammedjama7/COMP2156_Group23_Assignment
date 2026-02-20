@@ -1,0 +1,5 @@
+DevOps improves collaboration in SDLC.
+Continuous integration reduces bugs.
+Version control helps track changes.
+DevOps helps deliver software faster and more reliability.
+These practices improve deployment speed and system stability.
