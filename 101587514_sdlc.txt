@@ -1,2 +1,3 @@
 DevOps improves collaboration in SDLC.
 Continuous integration reduces bugs.
+Version control helps track changes.
