@@ -1,1 +1,2 @@
 DevOps improves collaboration in SDLC.
+Continuous integration reduces bugs.
